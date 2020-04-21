@@ -63,7 +63,7 @@ You'll want to fork this repository and deploy your own image generator.
 
 Alternatively, you can do a one-click to deploy with the button below.
 
-[![Deploy to now](https://zeit.co/button)](https://zeit.co/new/project?template=zeit/og-image)
+[![Deploy to now](https://zeit.co/button)](https://zeit.co/new/project?template=dimitrisraptis96/og-image)
 
 If you are using free ZEIT Now plan, you will need to remove all configuration inside `now.json` besides
 `rewrites`. So your `now.json` should look like this:
